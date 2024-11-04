@@ -1,0 +1,453 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|c:\\users\\lenovo\\desktop\\.net\\btap\\thuchanh_21520739\\thuchanh_21520739\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\models\\authentication\\authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\views\\access\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\areas\\admin\\views\\homeadmin\\editnguoidung.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\areas\\admin\\views\\homeadmin\\editnguoidung.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\areas\\admin\\views\\homeadmin\\themnguoidungmoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\areas\\admin\\views\\homeadmin\\themnguoidungmoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\areas\\admin\\views\\homeadmin\\editsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\areas\\admin\\views\\homeadmin\\editsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\areas\\admin\\views\\homeadmin\\themsanphammoi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\areas\\admin\\views\\homeadmin\\danhmuckhachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\areas\\admin\\views\\homeadmin\\danhmuckhachhang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\models\\tkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\models\\tkhachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\views\\shared\\components\\loaispmenu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\views\\shared\\_layoutindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\models\\productmodels\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\models\\tdanhmucsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\models\\tdanhmucsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\viewcomponents\\loaispmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\viewcomponents\\loaispmenuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\repository\\loaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\repository\\loaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\repository\\iloaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\repository\\iloaisprepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\thuchanh_21520739\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ED5626-AFC5-45D0-9231-30CDD4462F8F}|ThucHanh_21520739\\ThucHanh_21520739.csproj|solutionrelative:thuchanh_21520739\\controllers\\accesscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Controllers\\ProductAPIController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "ThucHanh_21520739\\Controllers\\ProductAPIController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:18:40.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPhamTheoLoai.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "RelativeToolTip": "ThucHanh_21520739\\Views\\Home\\SanPhamTheoLoai.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T06:26:13.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutOgani.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Views\\Shared\\_LayoutOgani.cshtml",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Views\\Shared\\_LayoutOgani.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Views\\Shared\\_LayoutOgani.cshtml",
+              "RelativeToolTip": "ThucHanh_21520739\\Views\\Shared\\_LayoutOgani.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAADoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T19:17:09.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Models\\Authentication\\Authentication.cs",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Models\\Authentication\\Authentication.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Models\\Authentication\\Authentication.cs",
+              "RelativeToolTip": "ThucHanh_21520739\\Models\\Authentication\\Authentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:19:29.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Program.cs",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Program.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Program.cs",
+              "RelativeToolTip": "ThucHanh_21520739\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:41:19.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Views\\Access\\Login.cshtml",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Views\\Access\\Login.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Views\\Access\\Login.cshtml",
+              "RelativeToolTip": "ThucHanh_21520739\\Views\\Access\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-03T18:45:51.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "ThucHanh_21520739\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+              "ViewState": "AQIAACwAAAAAAAAAAAAWwD8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T06:49:41.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditNguoiDung.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\EditNguoiDung.cshtml",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\EditNguoiDung.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\EditNguoiDung.cshtml",
+              "RelativeToolTip": "ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\EditNguoiDung.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T07:50:56.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "ThucHanh_21520739\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAwwGYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:32:29.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeToolTip": "ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T08:02:36.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ThucHanh_21520739\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T19:30:39.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThemNguoiDungMoi.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\ThemNguoiDungMoi.cshtml",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\ThemNguoiDungMoi.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\ThemNguoiDungMoi.cshtml",
+              "RelativeToolTip": "ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\ThemNguoiDungMoi.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T07:43:08.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditSanPham.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\EditSanPham.cshtml",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\EditSanPham.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\EditSanPham.cshtml",
+              "RelativeToolTip": "ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\EditSanPham.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T07:08:02.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ThemSanPhamMoi.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "RelativeToolTip": "ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\ThemSanPhamMoi.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T07:08:00.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DanhMucKhachHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucKhachHang.cshtml",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucKhachHang.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucKhachHang.cshtml",
+              "RelativeToolTip": "ThucHanh_21520739\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucKhachHang.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T07:29:02.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TKhachHang.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Models\\TKhachHang.cs",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Models\\TKhachHang.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Models\\TKhachHang.cs",
+              "RelativeToolTip": "ThucHanh_21520739\\Models\\TKhachHang.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAYwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T07:25:43.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "RelativeToolTip": "ThucHanh_21520739\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T04:37:29.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ThucHanh_21520739\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T06:35:00.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\appsettings.json",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\appsettings.json",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\appsettings.json",
+              "RelativeToolTip": "ThucHanh_21520739\\appsettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T06:42:20.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_LayoutIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Views\\Shared\\_LayoutIndex.cshtml",
+              "RelativeToolTip": "ThucHanh_21520739\\Views\\Shared\\_LayoutIndex.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T06:31:37.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ThucHanh_21520739\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-04T06:28:56.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Models\\ProductModels\\Product.cs",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Models\\ProductModels\\Product.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Models\\ProductModels\\Product.cs",
+              "RelativeToolTip": "ThucHanh_21520739\\Models\\ProductModels\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:27:43.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TDanhMucSp.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Models\\TDanhMucSp.cs",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Models\\TDanhMucSp.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Models\\TDanhMucSp.cs",
+              "RelativeToolTip": "ThucHanh_21520739\\Models\\TDanhMucSp.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAIwCkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T05:28:03.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LoaiSpMenuViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "RelativeToolTip": "ThucHanh_21520739\\ViewComponents\\LoaiSpMenuViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:27:08.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoaiSpRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Repository\\LoaiSpRepository.cs",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Repository\\LoaiSpRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Repository\\LoaiSpRepository.cs",
+              "RelativeToolTip": "ThucHanh_21520739\\Repository\\LoaiSpRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:21:19.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ILoaiSpRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Repository\\ILoaiSpRepository.cs",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Repository\\ILoaiSpRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Repository\\ILoaiSpRepository.cs",
+              "RelativeToolTip": "ThucHanh_21520739\\Repository\\ILoaiSpRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T04:18:01.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AccessController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Controllers\\AccessController.cs",
+              "RelativeDocumentMoniker": "ThucHanh_21520739\\Controllers\\AccessController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\.NET\\BTap\\ThucHanh_21520739\\ThucHanh_21520739\\Controllers\\AccessController.cs",
+              "RelativeToolTip": "ThucHanh_21520739\\Controllers\\AccessController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T18:08:41.358Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
